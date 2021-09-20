@@ -1,4 +1,4 @@
-Observer: 1-4
-User: 5-7
-Contributor: 8-10
-Advocate: 11+
+Observer: 1-4 <br/>
+User: 5-7 <br/>
+Contributor: 8-10 <br/>
+Advocate: 11+ <br/>
