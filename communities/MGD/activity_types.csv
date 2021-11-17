@@ -1,40 +1,40 @@
-"Name","Category","Score (1-10)"
-"🎤 Run an Ops Event (for a given month, i.e. Community Call, Calendar)","Events",10
-"👩‍💼 Grants - administration - followup, refinement, onboarding ","Grants",10
-"🎙️ Gave a talk about us","Events",10
-"🚚 Fundraising - create and deliver a marketing/outreach campaign","Treasury",10
-"🏦 Treasury reports to the DAO (monthly or quarterly) - assets held, money in, money out in the period","Treasury",10
-"💰 Fundraising - close a grant (upon receipt)","Treasury",10
-"🧮 Grants - accounting and payments","Grants",9
-"🏋️‍♀️ Grants - promote & update grants criteria, outreach","Grants",9
-"📚 Wrote blog post for MGD (for internal publication)","Content",9
-"🧙‍♂️ Start/Run a Committee","Product",9
-"✏️ Wrote a blog post about MGD (for external publication)","Content",9
-"🔎 Grants - review applications (as part of a team)","Grants",9
-"🏦 Make an Outcome-Based Donation","Product",8
-"📩 Submit a Proposal","Product",8
-"🗳 Vote on a Proposal","Product",8
-"📝 Submit MGD Improvement Proposal (MIP)","Open Source",8
-"⌗ Enter Movement Model Data (Governance Committee)","Governance",8
-"🦋 Process a Proposal","Product",8
-"💃 Sponsor a Proposal","Product",8
-"🏵 Attended Committee Call","Community",7
-"✍️ Contributed to our Documentation","Open Source",7
-"📏 Created a Poll","Open Source",7
-"🤓 Answered forum question","Community",6
-"🆘 Successful support interaction","Product",6
-"🌱 Starting using new feature (Educational Call)","Product",6
-"📞 Attended DAO-Wide Call","Community",6
-"💻 Building MGD Assets (Design, Product, Bots, Website Maintenance)","Open Source",6
-"👐 Onboarding a new member","Community",6
-"👋 Joined the DAO","Community",5
-"🎳 Posted about us in external/private forum","Social",5
-"🙋‍♂️ Fill member feedback surveys","Product",4
-"🙋‍♀️ Created forum topic","Community",4
-"💸 Donated on Gitcoin Grants","Social",4
-"📋 Opened a Ticket on Notion","Open Source",4
-"#️⃣ Joined Discord","Community",3
-"⌨️ Started Discord conversation","Community",3
-"🤝 Referred Member to MGD (that was accepted)","Community",2
-"💌 Follow MGD on Medium","Content",1
-"⭐ Create Discourse Account","Open Source",1
+Task ID,Name,Category,Score (1-10)
+1,"🎤 Run an Ops Event (for a given month, i.e. Community Call, Calendar)",Events,10
+2,"👩‍💼 Grants - administration - followup, refinement, onboarding ",Grants,10
+3,🎙️ Gave a talk about us,Events,10
+4,🚚 Fundraising - create and deliver a marketing/outreach campaign,Treasury,10
+5,"🏦 Treasury reports to the DAO (monthly or quarterly) - assets held, money in, money out in the period",Treasury,10
+6,💰 Fundraising - close a grant (upon receipt),Treasury,10
+7,🧮 Grants - accounting and payments,Grants,9
+8,"🏋️‍♀️ Grants - promote & update grants criteria, outreach",Grants,9
+9,📚 Wrote blog post for MGD (for internal publication),Content,9
+10,🧙‍♂️ Start/Run a Committee,Product,9
+11,✏️ Wrote a blog post about MGD (for external publication),Content,9
+12,🔎 Grants - review applications (as part of a team),Grants,9
+13,🏦 Make an Outcome-Based Donation,Product,8
+14,📩 Submit a Proposal,Product,8
+15,🗳 Vote on a Proposal,Product,8
+16,📝 Submit MGD Improvement Proposal (MIP),Open Source,8
+17,⌗ Enter Movement Model Data (Governance Committee),Governance,8
+18,🦋 Process a Proposal,Product,8
+19,💃 Sponsor a Proposal,Product,8
+20,🏵 Attended Committee Call,Community,7
+21,✍️ Contributed to our Documentation,Open Source,7
+22,📏 Created a Poll,Open Source,7
+23,🤓 Answered forum question,Community,6
+24,🆘 Successful support interaction,Product,6
+25,🌱 Starting using new feature (Educational Call),Product,6
+26,📞 Attended DAO-Wide Call,Community,6
+27,"💻 Building MGD Assets (Design, Product, Bots, Website Maintenance)",Open Source,6
+28,👐 Onboarding a new member,Community,6
+29,👋 Joined the DAO,Community,5
+30,🎳 Posted about us in external/private forum,Social,5
+31,🙋‍♂️ Fill member feedback surveys,Product,4
+32,🙋‍♀️ Created forum topic,Community,4
+33,💸 Donated on Gitcoin Grants,Social,4
+34,📋 Opened a Ticket on Notion,Open Source,4
+35,#️⃣ Joined Discord,Community,3
+36,⌨️ Started Discord conversation,Community,3
+37,🤝 Referred Member to MGD (that was accepted),Community,2
+38,💌 Follow MGD on Medium,Content,1
+39,⭐ Create Discourse Account,Open Source,1
