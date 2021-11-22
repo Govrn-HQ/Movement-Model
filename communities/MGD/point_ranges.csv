@@ -1,6 +1,6 @@
-Contributor Type,Range,Cutoff
-Observer,[1,4],4
-User,[5,7],7
-Contributor,[8,10],10
-Advocate,[11+],int('inf')
+Contributor Type,Start Range,End Range
+Observer,1,4
+User,5,7
+Contributor,8,10
+Advocate,11,int('inf')
 
