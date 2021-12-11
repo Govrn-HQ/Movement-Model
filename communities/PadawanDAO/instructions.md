@@ -1,4 +1,4 @@
-## Welcome MGD!
+## Welcome PadawanDAO!
 
 Steps:
 1. Each Friday, fill out the activity that happened in the last week (Fri - Thurs). [Here's the template.]()
