@@ -1,11 +1,29 @@
-# Movement-Proposals
-Place where leaders and users can come together to collaborate on open source policy for an outcome community to vote on
+# Movement Model
+Communities hub to set up and interact with their Govrn Movement Model
 
-### Process
-1. For this given issue, navigate to the desired outcome
-2. Ensure you've pledged as a "loot holder" to a given DAO that represents the outcome you want to see
-3. If you're a selected politician, please submit a proposal or propose changes to an existing proposal
-4. If you're not a selected politician, please leave comments on different proposals so politicians can take into account feedback from community
-5. After two weeks, we will put all submitted proposals on snapshot for a vote.  At that time, users can vote on the proposal that they are most excited about.
-6. The proposal that receives the most votes will be the proposal this groups submits to your Community
-7. The politicians who submitted the winning proposal will receive 20% of the amount raised, the other 80% will be held in escrow to be delivered to your Community Fund upon completion of the proposal
+## What is the Movement Model?
+The Govrn Movement Model is a govern-to-earn framework that enbales communities to create a reward system for community contributions.  Communities create a list of "contribution" (e.g. Contributing to documentation, voting on proposals, etc) and assign a point value to that contribution.  For example, you can see the Movement Model setup we use for the Govrn Communitiy [here](https://github.com/Govrn-HQ/foundation/blob/main/Govrn-Movement-Model.csv).
+
+## The Community Folder
+There is one important section for you to know, the communities folder.  For every community using a Govrn Movement Model, we have a folder setup with their Reward Framework and all reported contributions. 
+
+Additionally, the communities folder contains Movement Model Framework templates for communities as a starting place as they set up their Movement Model Framework.
+
+## How do contributions get reported?
+The single source of truth of "cosidered" contributions (contributions that are used for reward calculations) is what is submitted to each communities' respective Github file.  This is done via a community submitting a PR to the repo.
+
+For ease we've created two tools, a Discord Bot and Community Approval Portal, for communities to reduce operating effort:
+1. Govrn Discord Bot - Kevin Malone:  The Govrn Discord Bot goes by the name of Kevin Malone.  Kevin can be loaded into your community server, and allows users to self report their contributions.  When using Kevin Malone, we can automatically generate the approval file for communities to approve reported transactions.
+2. Community Approval Portal:  Once contributions are reported, community leaders can go into our approval portal to check contributions for legitamacy and approve community contributions.  By using our approval portal, we're able to automatically generate the PR request for communities to merge once they've completed their approval process.
+
+## How to setup your own Movement Model?
+Setting up your own Movement Model is simple and easy.
+
+1. Navigate to the Communities folder
+2. Fork the Repo
+3. Navigate to the "Movement Model Template Folder"
+4. Create a copy of the folder and rename the new folder with the title of your community
+5. We have several Movement Model Starter Templates to choose from.  Choose the one that most closely aligns with your community and customize as needed.
+6. Once you're happy with your initial Movement Model Framework, submit a PR against the Govrn Repo
+
+The Govrn team will review the PR in the order we recieve them to ensure they are set up correctly.  Once it passed out tests, we will merge it into our Repo and your community will be all set up to start using adding contributions to receive rewards!
