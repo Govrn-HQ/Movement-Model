@@ -1,5 +1,5 @@
 
-govrn_communities = {
+{
     'PadawanDAO': 'Govrn-HQ/Movement-Proposals/tree/main/communities/PadawanDAO',
     'MGD': 'Govrn-HQ/Movement-Proposals/tree/main/communities/MGD'
 }
