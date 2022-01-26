@@ -29,7 +29,7 @@ Setting up your own Movement Model is simple and easy!
 4. Once you're happy with your initial Movement Model Framework, all you have to do is join the Govrn ecosystem by adding yourself as a Govrn Community!
    1. To do this, first make a fork of the [Govrn Foundations Repo](https://github.com/Govrn-HQ/foundation/tree/main/communities)
    2. Then, add your community to the `govrn_communities.csv` file.
-   3. The information we need is **the name of your communitiy** and **the repo pathway**. The repo pathway is the everything that comes after `github.com/` in the url of the website of your repo! (for example the Govrn one is: `Govrn-HQ/Movement-Proposals`)
+   3. The information we need is **the name of your communitiy** and **the repo pathway**. The repo pathway is everything that comes after `github.com/` in the url of the website of your repo! (for example the Govrn one is: `Govrn-HQ/Movement-Proposals`)
 
 The Govrn team will review the PR in the order we recieve them to ensure they are set up correctly.  Once it passes our tests, we will fork your Repo and send some initial PRs and your community will be all set up to start adding contributions to receive rewards!
 
