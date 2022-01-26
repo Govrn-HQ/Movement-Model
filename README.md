@@ -21,7 +21,7 @@ For ease we've created two tools, a Discord Bot and Community Approval Portal, f
 
 ## How to setup your own Movement Model?
 
-Setting up your own Movement Model is simple and easy.
+Setting up your own Movement Model is simple and easy!
 
 1. Navigate to the Communities folder
 2. Fork the Repo
