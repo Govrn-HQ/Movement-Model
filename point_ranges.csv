@@ -1,6 +1,6 @@
 Contributor Type,Start Range,End Range
-Observer,1,3
-User,4,6
-Contributor,7,8
-Advocate,9,10
+Observer,1,4
+User,5,7
+Contributor,8,10
+Advocate,11,int('inf')
 
