@@ -24,13 +24,13 @@ For ease we've created two tools, a Bot and Community Approval Portal, for commu
 Setting up your own Movement Model is simple and easy!
 
 1. Fork this Repo
-2. Set up your contribution and reward framework. We have two templates to choose from: `activity_types_CollegeClub_starter.csv` and `activity_types_GrantDAO_starter.csv` for inspiration. Choose the one that most most closely aligns with your community and customize as needed. **We just ask that you rename your final framework `activity_types.csv`**. Feel free to delete the unused templates for clarity. (Also note, Task ID column is internal for us, so please leave blank. The `Active` column denotes a boolean where 1 means those engagements are currently rewardable, and 0 means they have been paused or deprecated.)
-3. Set up your contributor type framework. Do this by navigating to `point_ranges.csv`and adjusting the point ranges your community wants associated with each contributor type. Don't hesitate to ping us in discord to discuss what might make sense for your community here - it can really vary :)
+2. Set up your contribution and reward framework.  We have two templates to choose from: `activity_types_CollegeClub_starter.csv` and `activity_types_GrantDAO_starter.csv` for inspiration.  Choose the one that most most closely aligns with your community and customize as needed. **We just ask that you rename your final framework `activity_types.csv`**.  Feel free to delete the unused templates for clarity. (Also note, Task ID column is internal for us, so please leave blank.  The `Active` column denotes a boolean where 1 means those engagements are currently rewardable, and 0 means they have been paused or deprecated.)
+3. Set up your contributor type framework.  Do this by navigating to `point_ranges.csv`and adjusting the point ranges your community wants associated with each contributor type.  Don't hesitate to ping us in discord to discuss what might make sense for your community here - it can really vary :)
 4. Once you're happy with your initial Movement Model Framework, all you have to do is join the Govrn ecosystem by adding yourself as a Govrn Community!
    1. To do this, first make a fork of the [Govrn Foundations Repo](https://github.com/Govrn-HQ/foundation/tree/main/communities)
    2. Then, add your community to the `govrn_communities.csv` file.
    3. The information we need is **the name of your communitiy** and **the repo pathway**. The repo pathway is the everything that comes after `github.com/` in the url of the website of your repo! (for example the Govrn one is: `Govrn-HQ/Movement-Proposals`)
 
-The Govrn team will review the PR in the order we recieve them to ensure they are set up correctly. Once it passes our tests, we will fork your Repo and send some initial PRs and your community will be all set up to start adding contributions to receive rewards!
+The Govrn team will review the PR in the order we recieve them to ensure they are set up correctly.  Once it passes our tests, we will fork your Repo and send some initial PRs and your community will be all set up to start adding contributions to receive rewards!
 
 Note: If any of the GitHub processes are new for you, we are GitHub enthusiasts and would be more than happy to hop on a call and work through it together :)
